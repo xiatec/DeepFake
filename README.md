@@ -6,14 +6,14 @@ This project aims to combat the rising risks associated with accessible generati
 
 ## Key Features
 
-- Utilizes 11 different CNN architectures
+- Utilizes different CNN architectures
 - Achieves high accuracy and precision in deepfake detection
 - Provides pre-trained models for out-of-the-box solutions
 - Includes both a detector mode and a game mode for user interaction
 
 ## Model Performance
 
-The EfficientNet_v2B0 model demonstrated the best performance:
+The EfficientNet model demonstrated the best performance:
 
 - Validation Accuracy: 0.965
 - Validation Precision: 0.992
